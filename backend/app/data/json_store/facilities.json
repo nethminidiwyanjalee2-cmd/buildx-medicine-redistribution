@@ -1,0 +1,34 @@
+[
+  {
+    "id": "FAC-001",
+    "name": "Colombo National Hospital",
+    "location": "Colombo, Western Province",
+    "facility_type": "Tertiary National Referral Hospital",
+    "contact_phone": "+94 11 269 1111",
+    "contact_email": "pharmacy@cnh.health.gov.lk"
+  },
+  {
+    "id": "FAC-002",
+    "name": "Kandy Base Hospital",
+    "location": "Kandy, Central Province",
+    "facility_type": "Regional Base Hospital",
+    "contact_phone": "+94 81 222 2261",
+    "contact_email": "stores@kandybase.health.gov.lk"
+  },
+  {
+    "id": "FAC-003",
+    "name": "Galle General Hospital",
+    "location": "Galle, Southern Province",
+    "facility_type": "District General Hospital",
+    "contact_phone": "+94 91 223 4271",
+    "contact_email": "logistics@gallehosp.health.gov.lk"
+  },
+  {
+    "id": "FAC-004",
+    "name": "Jaffna Teaching Hospital",
+    "location": "Jaffna, Northern Province",
+    "facility_type": "Provincial Teaching Hospital",
+    "contact_phone": "+94 21 222 2262",
+    "contact_email": "medstores@jth.health.gov.lk"
+  }
+]

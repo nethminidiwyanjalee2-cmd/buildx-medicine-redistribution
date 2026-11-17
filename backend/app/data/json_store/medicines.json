@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MED-001",
+    "name": "Amoxicillin 500mg",
+    "category": "Antibiotics",
+    "dosage_form": "Capsule",
+    "unit": "capsules",
+    "base_burn_rate": 80.0,
+    "reorder_level": 500.0
+  },
+  {
+    "id": "MED-002",
+    "name": "Ciprofloxacin 500mg",
+    "category": "Antibiotics",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 45.0,
+    "reorder_level": 300.0
+  },
+  {
+    "id": "MED-003",
+    "name": "Paracetamol 500mg",
+    "category": "Analgesics & Antipyretics",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 220.0,
+    "reorder_level": 1500.0
+  },
+  {
+    "id": "MED-004",
+    "name": "Ibuprofen 400mg",
+    "category": "Analgesics & Antipyretics",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 60.0,
+    "reorder_level": 400.0
+  },
+  {
+    "id": "MED-005",
+    "name": "Amlodipine 5mg",
+    "category": "Cardiovascular",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 90.0,
+    "reorder_level": 600.0
+  },
+  {
+    "id": "MED-006",
+    "name": "Atorvastatin 20mg",
+    "category": "Cardiovascular",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 75.0,
+    "reorder_level": 500.0
+  },
+  {
+    "id": "MED-007",
+    "name": "Metformin 500mg",
+    "category": "Antidiabetic",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 130.0,
+    "reorder_level": 900.0
+  },
+  {
+    "id": "MED-008",
+    "name": "Human Regular Insulin 100IU/ml",
+    "category": "Antidiabetic",
+    "dosage_form": "Vial 10ml",
+    "unit": "vials",
+    "base_burn_rate": 20.0,
+    "reorder_level": 150.0
+  },
+  {
+    "id": "MED-009",
+    "name": "Salbutamol Inhaler 100mcg",
+    "category": "Respiratory",
+    "dosage_form": "Inhaler (200 doses)",
+    "unit": "canisters",
+    "base_burn_rate": 25.0,
+    "reorder_level": 180.0
+  },
+  {
+    "id": "MED-010",
+    "name": "Montelukast 10mg",
+    "category": "Respiratory",
+    "dosage_form": "Tablet",
+    "unit": "tablets",
+    "base_burn_rate": 40.0,
+    "reorder_level": 280.0
+  },
+  {
+    "id": "MED-011",
+    "name": "Adrenaline 1mg/ml Ampoule",
+    "category": "Emergency & Critical Care",
+    "dosage_form": "Injection Ampoule",
+    "unit": "ampoules",
+    "base_burn_rate": 10.0,
+    "reorder_level": 70.0
+  },
+  {
+    "id": "MED-012",
+    "name": "Dextrose 50% Infusion 50ml",
+    "category": "Emergency & Critical Care",
+    "dosage_form": "IV Infusion Bottle",
+    "unit": "bottles",
+    "base_burn_rate": 15.0,
+    "reorder_level": 100.0
+  }
+]

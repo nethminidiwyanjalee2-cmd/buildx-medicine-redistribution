@@ -1,0 +1,8642 @@
+[
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-18",
+    "units_consumed": 120
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-19",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-20",
+    "units_consumed": 99
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-21",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-22",
+    "units_consumed": 125
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-23",
+    "units_consumed": 122
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-24",
+    "units_consumed": 134
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-25",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-26",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-27",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-28",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-29",
+    "units_consumed": 112
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-30",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-10-31",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-01",
+    "units_consumed": 120
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-02",
+    "units_consumed": 115
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-03",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-04",
+    "units_consumed": 117
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-05",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-06",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-07",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-08",
+    "units_consumed": 123
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-09",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-10",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-11",
+    "units_consumed": 138
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-12",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-13",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-14",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-15",
+    "units_consumed": 131
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-001",
+    "date": "2026-11-16",
+    "units_consumed": 118
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-18",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-19",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-20",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-21",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-22",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-23",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-24",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-25",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-26",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-27",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-28",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-29",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-30",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-10-31",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-01",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-02",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-03",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-04",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-05",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-06",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-07",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-08",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-09",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-10",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-11",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-12",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-13",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-14",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-15",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-002",
+    "date": "2026-11-16",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-18",
+    "units_consumed": 317
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-19",
+    "units_consumed": 336
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-20",
+    "units_consumed": 361
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-21",
+    "units_consumed": 351
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-22",
+    "units_consumed": 266
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-23",
+    "units_consumed": 236
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-24",
+    "units_consumed": 280
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-25",
+    "units_consumed": 272
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-26",
+    "units_consumed": 263
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-27",
+    "units_consumed": 376
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-28",
+    "units_consumed": 366
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-29",
+    "units_consumed": 279
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-30",
+    "units_consumed": 332
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-10-31",
+    "units_consumed": 292
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-01",
+    "units_consumed": 372
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-02",
+    "units_consumed": 302
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-03",
+    "units_consumed": 272
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-04",
+    "units_consumed": 269
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-05",
+    "units_consumed": 317
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-06",
+    "units_consumed": 271
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-07",
+    "units_consumed": 321
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-08",
+    "units_consumed": 369
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-09",
+    "units_consumed": 293
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-10",
+    "units_consumed": 265
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-11",
+    "units_consumed": 385
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-12",
+    "units_consumed": 309
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-13",
+    "units_consumed": 245
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-14",
+    "units_consumed": 238
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-15",
+    "units_consumed": 248
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-003",
+    "date": "2026-11-16",
+    "units_consumed": 328
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-18",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-19",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-20",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-21",
+    "units_consumed": 105
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-22",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-23",
+    "units_consumed": 104
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-24",
+    "units_consumed": 99
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-25",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-26",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-27",
+    "units_consumed": 92
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-28",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-29",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-30",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-10-31",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-01",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-02",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-03",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-04",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-05",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-06",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-07",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-08",
+    "units_consumed": 101
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-09",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-10",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-11",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-12",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-13",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-14",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-15",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-004",
+    "date": "2026-11-16",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-18",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-19",
+    "units_consumed": 115
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-20",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-21",
+    "units_consumed": 153
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-22",
+    "units_consumed": 150
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-23",
+    "units_consumed": 147
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-24",
+    "units_consumed": 114
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-25",
+    "units_consumed": 98
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-26",
+    "units_consumed": 150
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-27",
+    "units_consumed": 154
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-28",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-29",
+    "units_consumed": 125
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-30",
+    "units_consumed": 99
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-10-31",
+    "units_consumed": 142
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-01",
+    "units_consumed": 143
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-02",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-03",
+    "units_consumed": 124
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-04",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-05",
+    "units_consumed": 111
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-06",
+    "units_consumed": 149
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-07",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-08",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-09",
+    "units_consumed": 128
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-10",
+    "units_consumed": 140
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-11",
+    "units_consumed": 107
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-12",
+    "units_consumed": 114
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-13",
+    "units_consumed": 157
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-14",
+    "units_consumed": 135
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-15",
+    "units_consumed": 122
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-005",
+    "date": "2026-11-16",
+    "units_consumed": 127
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-18",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-19",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-20",
+    "units_consumed": 110
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-21",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-22",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-23",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-24",
+    "units_consumed": 112
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-25",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-26",
+    "units_consumed": 126
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-27",
+    "units_consumed": 124
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-28",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-29",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-30",
+    "units_consumed": 114
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-10-31",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-01",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-02",
+    "units_consumed": 128
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-03",
+    "units_consumed": 109
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-04",
+    "units_consumed": 104
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-05",
+    "units_consumed": 120
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-06",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-07",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-08",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-09",
+    "units_consumed": 101
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-10",
+    "units_consumed": 101
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-11",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-12",
+    "units_consumed": 117
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-13",
+    "units_consumed": 114
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-14",
+    "units_consumed": 130
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-15",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-006",
+    "date": "2026-11-16",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-18",
+    "units_consumed": 215
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-19",
+    "units_consumed": 159
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-20",
+    "units_consumed": 154
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-21",
+    "units_consumed": 177
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-22",
+    "units_consumed": 175
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-23",
+    "units_consumed": 162
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-24",
+    "units_consumed": 159
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-25",
+    "units_consumed": 221
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-26",
+    "units_consumed": 177
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-27",
+    "units_consumed": 215
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-28",
+    "units_consumed": 187
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-29",
+    "units_consumed": 141
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-30",
+    "units_consumed": 227
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-10-31",
+    "units_consumed": 213
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-01",
+    "units_consumed": 225
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-02",
+    "units_consumed": 221
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-03",
+    "units_consumed": 214
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-04",
+    "units_consumed": 152
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-05",
+    "units_consumed": 181
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-06",
+    "units_consumed": 156
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-07",
+    "units_consumed": 173
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-08",
+    "units_consumed": 142
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-09",
+    "units_consumed": 171
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-10",
+    "units_consumed": 226
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-11",
+    "units_consumed": 161
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-12",
+    "units_consumed": 208
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-13",
+    "units_consumed": 178
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-14",
+    "units_consumed": 175
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-15",
+    "units_consumed": 224
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-007",
+    "date": "2026-11-16",
+    "units_consumed": 227
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-18",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-19",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-20",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-21",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-22",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-23",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-24",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-25",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-26",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-27",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-28",
+    "units_consumed": 33
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-29",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-30",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-10-31",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-01",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-02",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-03",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-04",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-05",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-06",
+    "units_consumed": 33
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-07",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-08",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-09",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-10",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-11",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-12",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-13",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-14",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-15",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-008",
+    "date": "2026-11-16",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-18",
+    "units_consumed": 33
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-19",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-20",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-21",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-22",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-23",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-24",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-25",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-26",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-27",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-28",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-29",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-30",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-10-31",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-01",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-02",
+    "units_consumed": 33
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-03",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-04",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-05",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-06",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-07",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-08",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-09",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-10",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-11",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-12",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-13",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-14",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-15",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-009",
+    "date": "2026-11-16",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-18",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-19",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-20",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-21",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-22",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-23",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-24",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-25",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-26",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-27",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-28",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-29",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-30",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-10-31",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-01",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-02",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-03",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-04",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-05",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-06",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-07",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-08",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-09",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-10",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-11",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-12",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-13",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-14",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-15",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-010",
+    "date": "2026-11-16",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-18",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-19",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-20",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-21",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-22",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-23",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-24",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-25",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-26",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-27",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-28",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-29",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-30",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-10-31",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-01",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-02",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-03",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-04",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-05",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-06",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-07",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-08",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-09",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-10",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-11",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-12",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-13",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-14",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-15",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-011",
+    "date": "2026-11-16",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-18",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-19",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-20",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-21",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-22",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-23",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-24",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-25",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-26",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-27",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-28",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-29",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-30",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-10-31",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-01",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-02",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-03",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-04",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-05",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-06",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-07",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-08",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-09",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-10",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-11",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-12",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-13",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-14",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-15",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-001",
+    "medicine_id": "MED-012",
+    "date": "2026-11-16",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-18",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-19",
+    "units_consumed": 80
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-20",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-21",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-22",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-23",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-24",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-25",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-26",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-27",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-28",
+    "units_consumed": 80
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-29",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-30",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-10-31",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-01",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-02",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-03",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-04",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-05",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-06",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-07",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-08",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-09",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-10",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-11",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-12",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-13",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-14",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-15",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-001",
+    "date": "2026-11-16",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-18",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-19",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-20",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-21",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-22",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-23",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-24",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-25",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-26",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-27",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-28",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-29",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-30",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-10-31",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-01",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-02",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-03",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-04",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-05",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-06",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-07",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-08",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-09",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-10",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-11",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-12",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-13",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-14",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-15",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-002",
+    "date": "2026-11-16",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-18",
+    "units_consumed": 191
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-19",
+    "units_consumed": 166
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-20",
+    "units_consumed": 243
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-21",
+    "units_consumed": 200
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-22",
+    "units_consumed": 153
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-23",
+    "units_consumed": 173
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-24",
+    "units_consumed": 232
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-25",
+    "units_consumed": 194
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-26",
+    "units_consumed": 228
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-27",
+    "units_consumed": 215
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-28",
+    "units_consumed": 246
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-29",
+    "units_consumed": 207
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-30",
+    "units_consumed": 243
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-10-31",
+    "units_consumed": 237
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-01",
+    "units_consumed": 209
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-02",
+    "units_consumed": 220
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-03",
+    "units_consumed": 198
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-04",
+    "units_consumed": 231
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-05",
+    "units_consumed": 203
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-06",
+    "units_consumed": 237
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-07",
+    "units_consumed": 222
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-08",
+    "units_consumed": 195
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-09",
+    "units_consumed": 174
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-10",
+    "units_consumed": 173
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-11",
+    "units_consumed": 212
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-12",
+    "units_consumed": 224
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-13",
+    "units_consumed": 200
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-14",
+    "units_consumed": 211
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-15",
+    "units_consumed": 176
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-003",
+    "date": "2026-11-16",
+    "units_consumed": 156
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-18",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-19",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-20",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-21",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-22",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-23",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-24",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-25",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-26",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-27",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-28",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-29",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-30",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-10-31",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-01",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-02",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-03",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-04",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-05",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-06",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-07",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-08",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-09",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-10",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-11",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-12",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-13",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-14",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-15",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-004",
+    "date": "2026-11-16",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-18",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-19",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-20",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-21",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-22",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-23",
+    "units_consumed": 80
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-24",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-25",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-26",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-27",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-28",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-29",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-30",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-10-31",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-01",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-02",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-03",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-04",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-05",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-06",
+    "units_consumed": 92
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-07",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-08",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-09",
+    "units_consumed": 94
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-10",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-11",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-12",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-13",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-14",
+    "units_consumed": 101
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-15",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-005",
+    "date": "2026-11-16",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-18",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-19",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-20",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-21",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-22",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-23",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-24",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-25",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-26",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-27",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-28",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-29",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-30",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-10-31",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-01",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-02",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-03",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-04",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-05",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-06",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-07",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-08",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-09",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-10",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-11",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-12",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-13",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-14",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-15",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-006",
+    "date": "2026-11-16",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-18",
+    "units_consumed": 123
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-19",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-20",
+    "units_consumed": 145
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-21",
+    "units_consumed": 134
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-22",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-23",
+    "units_consumed": 113
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-24",
+    "units_consumed": 109
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-25",
+    "units_consumed": 117
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-26",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-27",
+    "units_consumed": 137
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-28",
+    "units_consumed": 136
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-29",
+    "units_consumed": 94
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-30",
+    "units_consumed": 144
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-10-31",
+    "units_consumed": 125
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-01",
+    "units_consumed": 136
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-02",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-03",
+    "units_consumed": 113
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-04",
+    "units_consumed": 131
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-05",
+    "units_consumed": 144
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-06",
+    "units_consumed": 104
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-07",
+    "units_consumed": 135
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-08",
+    "units_consumed": 119
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-09",
+    "units_consumed": 116
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-10",
+    "units_consumed": 113
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-11",
+    "units_consumed": 131
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-12",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-13",
+    "units_consumed": 138
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-14",
+    "units_consumed": 136
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-15",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-007",
+    "date": "2026-11-16",
+    "units_consumed": 139
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-18",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-19",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-20",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-21",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-22",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-23",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-24",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-25",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-26",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-27",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-28",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-29",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-30",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-10-31",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-01",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-02",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-03",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-04",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-05",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-06",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-07",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-08",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-09",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-10",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-11",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-12",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-13",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-14",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-15",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-008",
+    "date": "2026-11-16",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-18",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-19",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-20",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-21",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-22",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-23",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-24",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-25",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-26",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-27",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-28",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-29",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-30",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-10-31",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-01",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-02",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-03",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-04",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-05",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-06",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-07",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-08",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-09",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-10",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-11",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-12",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-13",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-14",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-15",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-009",
+    "date": "2026-11-16",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-18",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-19",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-20",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-21",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-22",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-23",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-24",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-25",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-26",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-27",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-28",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-29",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-30",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-10-31",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-01",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-02",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-03",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-04",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-05",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-06",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-07",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-08",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-09",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-10",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-11",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-12",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-13",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-14",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-15",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-010",
+    "date": "2026-11-16",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-18",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-19",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-20",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-21",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-22",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-23",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-24",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-25",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-26",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-27",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-28",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-29",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-30",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-10-31",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-01",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-02",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-03",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-04",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-05",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-06",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-07",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-08",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-09",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-10",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-11",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-12",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-13",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-14",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-15",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-011",
+    "date": "2026-11-16",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-18",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-19",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-20",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-21",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-22",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-23",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-24",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-25",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-26",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-27",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-28",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-29",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-30",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-10-31",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-01",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-02",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-03",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-04",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-05",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-06",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-07",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-08",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-09",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-10",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-11",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-12",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-13",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-14",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-15",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-002",
+    "medicine_id": "MED-012",
+    "date": "2026-11-16",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-18",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-19",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-20",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-21",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-22",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-23",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-24",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-25",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-26",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-27",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-28",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-29",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-30",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-10-31",
+    "units_consumed": 80
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-01",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-02",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-03",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-04",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-05",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-06",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-07",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-08",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-09",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-10",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-11",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-12",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-13",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-14",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-15",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-001",
+    "date": "2026-11-16",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-18",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-19",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-20",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-21",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-22",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-23",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-24",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-25",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-26",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-27",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-28",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-29",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-30",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-10-31",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-01",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-02",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-03",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-04",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-05",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-06",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-07",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-08",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-09",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-10",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-11",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-12",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-13",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-14",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-15",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-002",
+    "date": "2026-11-16",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-18",
+    "units_consumed": 184
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-19",
+    "units_consumed": 220
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-20",
+    "units_consumed": 175
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-21",
+    "units_consumed": 145
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-22",
+    "units_consumed": 179
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-23",
+    "units_consumed": 162
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-24",
+    "units_consumed": 181
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-25",
+    "units_consumed": 180
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-26",
+    "units_consumed": 172
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-27",
+    "units_consumed": 160
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-28",
+    "units_consumed": 149
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-29",
+    "units_consumed": 193
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-30",
+    "units_consumed": 182
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-10-31",
+    "units_consumed": 153
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-01",
+    "units_consumed": 200
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-02",
+    "units_consumed": 136
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-03",
+    "units_consumed": 198
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-04",
+    "units_consumed": 194
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-05",
+    "units_consumed": 203
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-06",
+    "units_consumed": 166
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-07",
+    "units_consumed": 190
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-08",
+    "units_consumed": 204
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-09",
+    "units_consumed": 218
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-10",
+    "units_consumed": 176
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-11",
+    "units_consumed": 135
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-12",
+    "units_consumed": 176
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-13",
+    "units_consumed": 184
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-14",
+    "units_consumed": 209
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-15",
+    "units_consumed": 209
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-003",
+    "date": "2026-11-16",
+    "units_consumed": 171
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-18",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-19",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-20",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-21",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-22",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-23",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-24",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-25",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-26",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-27",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-28",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-29",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-30",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-10-31",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-01",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-02",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-03",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-04",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-05",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-06",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-07",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-08",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-09",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-10",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-11",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-12",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-13",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-14",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-15",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-004",
+    "date": "2026-11-16",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-18",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-19",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-20",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-21",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-22",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-23",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-24",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-25",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-26",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-27",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-28",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-29",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-30",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-10-31",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-01",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-02",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-03",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-04",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-05",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-06",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-07",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-08",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-09",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-10",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-11",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-12",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-13",
+    "units_consumed": 77
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-14",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-15",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-005",
+    "date": "2026-11-16",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-18",
+    "units_consumed": 57
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-19",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-20",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-21",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-22",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-23",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-24",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-25",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-26",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-27",
+    "units_consumed": 53
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-28",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-29",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-30",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-10-31",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-01",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-02",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-03",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-04",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-05",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-06",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-07",
+    "units_consumed": 56
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-08",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-09",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-10",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-11",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-12",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-13",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-14",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-15",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-006",
+    "date": "2026-11-16",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-18",
+    "units_consumed": 101
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-19",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-20",
+    "units_consumed": 116
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-21",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-22",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-23",
+    "units_consumed": 117
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-24",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-25",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-26",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-27",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-28",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-29",
+    "units_consumed": 126
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-30",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-10-31",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-01",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-02",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-03",
+    "units_consumed": 120
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-04",
+    "units_consumed": 117
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-05",
+    "units_consumed": 96
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-06",
+    "units_consumed": 84
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-07",
+    "units_consumed": 128
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-08",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-09",
+    "units_consumed": 128
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-10",
+    "units_consumed": 123
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-11",
+    "units_consumed": 116
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-12",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-13",
+    "units_consumed": 128
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-14",
+    "units_consumed": 120
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-15",
+    "units_consumed": 97
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-007",
+    "date": "2026-11-16",
+    "units_consumed": 119
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-18",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-19",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-20",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-21",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-22",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-23",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-24",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-25",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-26",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-27",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-28",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-29",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-30",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-10-31",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-01",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-02",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-03",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-04",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-05",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-06",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-07",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-08",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-09",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-10",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-11",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-12",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-13",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-14",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-15",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-008",
+    "date": "2026-11-16",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-18",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-19",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-20",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-21",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-22",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-23",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-24",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-25",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-26",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-27",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-28",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-29",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-30",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-10-31",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-01",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-02",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-03",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-04",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-05",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-06",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-07",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-08",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-09",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-10",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-11",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-12",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-13",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-14",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-15",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-009",
+    "date": "2026-11-16",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-18",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-19",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-20",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-21",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-22",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-23",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-24",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-25",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-26",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-27",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-28",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-29",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-30",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-10-31",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-01",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-02",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-03",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-04",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-05",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-06",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-07",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-08",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-09",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-10",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-11",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-12",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-13",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-14",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-15",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-010",
+    "date": "2026-11-16",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-18",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-19",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-20",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-21",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-22",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-23",
+    "units_consumed": 6
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-24",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-25",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-26",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-27",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-28",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-29",
+    "units_consumed": 6
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-30",
+    "units_consumed": 6
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-10-31",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-01",
+    "units_consumed": 6
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-02",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-03",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-04",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-05",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-06",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-07",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-08",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-09",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-10",
+    "units_consumed": 6
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-11",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-12",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-13",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-14",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-15",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-011",
+    "date": "2026-11-16",
+    "units_consumed": 7
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-18",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-19",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-20",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-21",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-22",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-23",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-24",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-25",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-26",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-27",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-28",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-29",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-30",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-10-31",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-01",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-02",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-03",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-04",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-05",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-06",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-07",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-08",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-09",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-10",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-11",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-12",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-13",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-14",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-15",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-003",
+    "medicine_id": "MED-012",
+    "date": "2026-11-16",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-18",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-19",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-20",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-21",
+    "units_consumed": 94
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-22",
+    "units_consumed": 75
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-23",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-24",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-25",
+    "units_consumed": 92
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-26",
+    "units_consumed": 94
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-27",
+    "units_consumed": 99
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-28",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-29",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-30",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-10-31",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-01",
+    "units_consumed": 97
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-02",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-03",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-04",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-05",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-06",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-07",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-08",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-09",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-10",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-11",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-12",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-13",
+    "units_consumed": 85
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-14",
+    "units_consumed": 61
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-15",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-001",
+    "date": "2026-11-16",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-18",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-19",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-20",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-21",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-22",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-23",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-24",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-25",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-26",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-27",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-28",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-29",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-30",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-10-31",
+    "units_consumed": 44
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-01",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-02",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-03",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-04",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-05",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-06",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-07",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-08",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-09",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-10",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-11",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-12",
+    "units_consumed": 34
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-13",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-14",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-15",
+    "units_consumed": 37
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-002",
+    "date": "2026-11-16",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-18",
+    "units_consumed": 166
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-19",
+    "units_consumed": 247
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-20",
+    "units_consumed": 184
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-21",
+    "units_consumed": 207
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-22",
+    "units_consumed": 242
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-23",
+    "units_consumed": 220
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-24",
+    "units_consumed": 257
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-25",
+    "units_consumed": 254
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-26",
+    "units_consumed": 173
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-27",
+    "units_consumed": 260
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-28",
+    "units_consumed": 170
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-29",
+    "units_consumed": 167
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-30",
+    "units_consumed": 266
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-10-31",
+    "units_consumed": 260
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-01",
+    "units_consumed": 228
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-02",
+    "units_consumed": 228
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-03",
+    "units_consumed": 243
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-04",
+    "units_consumed": 211
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-05",
+    "units_consumed": 178
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-06",
+    "units_consumed": 167
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-07",
+    "units_consumed": 201
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-08",
+    "units_consumed": 253
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-09",
+    "units_consumed": 233
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-10",
+    "units_consumed": 257
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-11",
+    "units_consumed": 266
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-12",
+    "units_consumed": 175
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-13",
+    "units_consumed": 258
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-14",
+    "units_consumed": 192
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-15",
+    "units_consumed": 230
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-003",
+    "date": "2026-11-16",
+    "units_consumed": 223
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-18",
+    "units_consumed": 54
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-19",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-20",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-21",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-22",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-23",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-24",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-25",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-26",
+    "units_consumed": 55
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-27",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-28",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-29",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-30",
+    "units_consumed": 52
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-10-31",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-01",
+    "units_consumed": 51
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-02",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-03",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-04",
+    "units_consumed": 65
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-05",
+    "units_consumed": 50
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-06",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-07",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-08",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-09",
+    "units_consumed": 68
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-10",
+    "units_consumed": 58
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-11",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-12",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-13",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-14",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-15",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-004",
+    "date": "2026-11-16",
+    "units_consumed": 64
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-18",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-19",
+    "units_consumed": 87
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-20",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-21",
+    "units_consumed": 80
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-22",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-23",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-24",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-25",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-26",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-27",
+    "units_consumed": 105
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-28",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-29",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-30",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-10-31",
+    "units_consumed": 95
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-01",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-02",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-03",
+    "units_consumed": 92
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-04",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-05",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-06",
+    "units_consumed": 88
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-07",
+    "units_consumed": 104
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-08",
+    "units_consumed": 97
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-09",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-10",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-11",
+    "units_consumed": 74
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-12",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-13",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-14",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-15",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-005",
+    "date": "2026-11-16",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-18",
+    "units_consumed": 63
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-19",
+    "units_consumed": 66
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-20",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-21",
+    "units_consumed": 73
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-22",
+    "units_consumed": 76
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-23",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-24",
+    "units_consumed": 70
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-25",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-26",
+    "units_consumed": 72
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-27",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-28",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-29",
+    "units_consumed": 86
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-30",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-10-31",
+    "units_consumed": 59
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-01",
+    "units_consumed": 60
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-02",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-03",
+    "units_consumed": 67
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-04",
+    "units_consumed": 83
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-05",
+    "units_consumed": 81
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-06",
+    "units_consumed": 90
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-07",
+    "units_consumed": 89
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-08",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-09",
+    "units_consumed": 78
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-10",
+    "units_consumed": 62
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-11",
+    "units_consumed": 69
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-12",
+    "units_consumed": 93
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-13",
+    "units_consumed": 82
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-14",
+    "units_consumed": 71
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-15",
+    "units_consumed": 79
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-006",
+    "date": "2026-11-16",
+    "units_consumed": 91
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-18",
+    "units_consumed": 122
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-19",
+    "units_consumed": 149
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-20",
+    "units_consumed": 150
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-21",
+    "units_consumed": 141
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-22",
+    "units_consumed": 151
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-23",
+    "units_consumed": 146
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-24",
+    "units_consumed": 142
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-25",
+    "units_consumed": 132
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-26",
+    "units_consumed": 139
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-27",
+    "units_consumed": 125
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-28",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-29",
+    "units_consumed": 121
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-30",
+    "units_consumed": 109
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-10-31",
+    "units_consumed": 111
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-01",
+    "units_consumed": 159
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-02",
+    "units_consumed": 129
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-03",
+    "units_consumed": 112
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-04",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-05",
+    "units_consumed": 103
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-06",
+    "units_consumed": 152
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-07",
+    "units_consumed": 104
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-08",
+    "units_consumed": 148
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-09",
+    "units_consumed": 152
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-10",
+    "units_consumed": 155
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-11",
+    "units_consumed": 100
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-12",
+    "units_consumed": 119
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-13",
+    "units_consumed": 147
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-14",
+    "units_consumed": 106
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-15",
+    "units_consumed": 122
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-007",
+    "date": "2026-11-16",
+    "units_consumed": 108
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-18",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-19",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-20",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-21",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-22",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-23",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-24",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-25",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-26",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-27",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-28",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-29",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-30",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-10-31",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-01",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-02",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-03",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-04",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-05",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-06",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-07",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-08",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-09",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-10",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-11",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-12",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-13",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-14",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-15",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-008",
+    "date": "2026-11-16",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-18",
+    "units_consumed": 26
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-19",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-20",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-21",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-22",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-23",
+    "units_consumed": 28
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-24",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-25",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-26",
+    "units_consumed": 21
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-27",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-28",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-29",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-30",
+    "units_consumed": 24
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-10-31",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-01",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-02",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-03",
+    "units_consumed": 25
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-04",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-05",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-06",
+    "units_consumed": 23
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-07",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-08",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-09",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-10",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-11",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-12",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-13",
+    "units_consumed": 22
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-14",
+    "units_consumed": 29
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-15",
+    "units_consumed": 27
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-009",
+    "date": "2026-11-16",
+    "units_consumed": 20
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-18",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-19",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-20",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-21",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-22",
+    "units_consumed": 47
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-23",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-24",
+    "units_consumed": 45
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-25",
+    "units_consumed": 41
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-26",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-27",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-28",
+    "units_consumed": 36
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-29",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-30",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-10-31",
+    "units_consumed": 46
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-01",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-02",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-03",
+    "units_consumed": 48
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-04",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-05",
+    "units_consumed": 30
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-06",
+    "units_consumed": 40
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-07",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-08",
+    "units_consumed": 33
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-09",
+    "units_consumed": 39
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-10",
+    "units_consumed": 42
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-11",
+    "units_consumed": 35
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-12",
+    "units_consumed": 38
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-13",
+    "units_consumed": 43
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-14",
+    "units_consumed": 32
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-15",
+    "units_consumed": 49
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-010",
+    "date": "2026-11-16",
+    "units_consumed": 31
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-18",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-19",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-20",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-21",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-22",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-23",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-24",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-25",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-26",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-27",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-28",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-29",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-30",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-10-31",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-01",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-02",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-03",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-04",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-05",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-06",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-07",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-08",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-09",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-10",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-11",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-12",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-13",
+    "units_consumed": 11
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-14",
+    "units_consumed": 10
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-15",
+    "units_consumed": 9
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-011",
+    "date": "2026-11-16",
+    "units_consumed": 8
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-18",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-19",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-20",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-21",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-22",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-23",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-24",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-25",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-26",
+    "units_consumed": 13
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-27",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-28",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-29",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-30",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-10-31",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-01",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-02",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-03",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-04",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-05",
+    "units_consumed": 14
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-06",
+    "units_consumed": 19
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-07",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-08",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-09",
+    "units_consumed": 18
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-10",
+    "units_consumed": 15
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-11",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-12",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-13",
+    "units_consumed": 12
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-14",
+    "units_consumed": 16
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-15",
+    "units_consumed": 17
+  },
+  {
+    "facility_id": "FAC-004",
+    "medicine_id": "MED-012",
+    "date": "2026-11-16",
+    "units_consumed": 15
+  }
+]
