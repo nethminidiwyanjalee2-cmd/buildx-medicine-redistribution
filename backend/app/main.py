@@ -1,9 +1,7 @@
 """
-MediStock FastAPI application entry point.
+MediStock FastAPI Application Entry Point.
 
-Phase 0 deliverables:
-  - CORS middleware configured from config.py
-  - GET /api/health  → liveness check with db_mode and disclaimer
+BuildX 0.1 — Challenge 03: Intelligent Medicine Stock Monitoring and Redistribution.
 """
 
 from fastapi import FastAPI
@@ -16,14 +14,14 @@ from app.config import (
     CORS_ORIGINS,
     DISCLAIMER,
 )
+from app.routers.inventory import router as inventory_router
+from app.routers.recommendations import router as recommendations_router
 
-# ---------------------------------------------------------------------------
-# App instance
-# ---------------------------------------------------------------------------
 app = FastAPI(
     title="MediStock API",
     description=(
-        "Decision-support prototype for medicine stock monitoring and redistribution. "
+        "Decision-support system for medicine stock monitoring, "
+        "consumption forecasting, and multi-facility redistribution optimization. "
         "BuildX 0.1 — Challenge 03."
     ),
     version=APP_VERSION,
@@ -33,34 +31,31 @@ app = FastAPI(
 )
 
 # ---------------------------------------------------------------------------
-# CORS — Vite dev server on :5173; extend via CORS_ORIGINS env var
+# CORS
 # ---------------------------------------------------------------------------
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=CORS_ORIGINS,
+    allow_origins=CORS_ORIGINS if CORS_ORIGINS else ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # ---------------------------------------------------------------------------
-# Phase 0 routes
+# Routes
 # ---------------------------------------------------------------------------
+app.include_router(inventory_router, prefix=API_PREFIX)
+app.include_router(recommendations_router, prefix=API_PREFIX)
+
 
 @app.get(f"{API_PREFIX}/health", tags=["meta"])
 async def health() -> dict:
     """
-    Liveness check.
-
-    Returns application version, current build phase, active database mode,
-    and the mandatory disclaimer string. The frontend reads this to confirm
-    the backend is reachable and to surface the db_mode to the team during
-    development.
+    Liveness and configuration check.
+    Returns version, active DB mode (Firestore vs JSON fallback), and mandatory disclaimer.
     """
-    # Import here (not at module level) so the import error is caught gracefully
-    # and reported in db_mode rather than crashing the app.
     try:
-        from app.data.db import DB_MODE  # noqa: PLC0415
+        from app.data.db import DB_MODE
     except Exception:
         DB_MODE = "unavailable"
 
