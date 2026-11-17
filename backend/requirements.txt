@@ -1,0 +1,25 @@
+# MediStock backend dependencies
+# Phase 0 — all packages needed for the scaffold and its tests.
+# Pin to minor versions for reproducibility across team members.
+
+# Web framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# Configuration
+python-dotenv==1.0.1
+
+# Testing
+pytest==8.3.3
+httpx==0.27.2         # required by TestClient (starlette async backend)
+
+# Type annotations (already in stdlib ≥3.11 but listed for clarity)
+# No additional packages needed for Phase 0.
+
+# Phase 1 will add:
+#   firebase-admin==6.6.0
+#   pandas==2.2.3
+#   numpy==2.1.3
+
+# Phase 2 will add:
+#   scipy==1.14.1   (for linear programming in optimiser)
